@@ -1,0 +1,150 @@
+* {
+  margin: 0px;
+  padding: 0px;
+}
+nav {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  gap: 600px;
+}
+ul {
+  list-style: none;
+  text-decoration: none;
+  display: flex;
+  gap: 20px;
+  color: white;
+  font-family: sans-serif;
+  font-size: small;
+  align-items: center;
+}
+.big {
+  background: url(hero\ image.png);
+}
+.div {
+  border: 1px solid white;
+  height: 40px;
+  width: 0px;
+}
+.big {
+  height: 800px;
+  width: 100%;
+}
+.span {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+}
+p {
+  color: white;
+  width: 155px;
+  font-family: sans-serif;
+  font-size: small;
+}
+.tel {
+  display: flex;
+  flex-direction: column;
+}
+.innav {
+  display: flex;
+  gap: 10px;
+}
+.btn {
+  width: 157px;
+  height: 47px;
+  background-color: orange;
+  font-family: sans-serif;
+  border: 0px;
+  color: white;
+}
+h1 {
+  font-size: xxx-large;
+  color: rgb(252, 147, 66);
+  font-family: Georgia, "Times New Roman", Times, serif;
+}
+h2 {
+  font-size: xx-large;
+  font-family: Georgia, "Times New Roman", Times, serif;
+  color: rgb(234, 142, 55);
+}
+.p {
+  width: auto;
+  display: flex;
+  align-items: center;
+}
+.good {
+  display: flex;
+  flex-direction: column;
+  margin-top: 200px;
+  margin-left: 200px;
+  width: 600px;
+  height: auto;
+  gap: 20px;
+}
+.hh {
+  color: orange;
+}
+.gr {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  text-align: center;
+  gap: 10px;
+  width: 349px;
+  height: 328px;
+  background-color: rgb(250, 253, 253);
+  box-shadow: 27px 31px 50px 0px rgba(34, 60, 80, 0.3);
+}
+.pp {
+  color: black;
+}
+.grs {
+  display: flex;
+  gap: 40px;
+  top: 700px;
+  position: absolute;
+  left: 200px;
+}
+.second {
+  display: flex;
+  margin-top: 300px;
+  align-items: center;
+  justify-content: center;
+  gap: 60px;
+}
+.left {
+  width: 444px;
+  text-align: center;
+}
+
+.hi {
+  color: black;
+}
+.ppp {
+  color: black;
+  width: 444px;
+  line-height: 20px;
+  text-align: center;
+  padding: 10px;
+}
+.divs{
+    display: flex;
+    gap: 40px;
+}
+.ok{
+    background: url(bg.png);
+    width: 100%;
+    height: 357px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.ds{
+    font-size: xx-large;
+    width: 601px;
+}
+.ht{
+    width: auto;
+}

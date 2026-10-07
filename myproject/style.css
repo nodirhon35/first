@@ -1,0 +1,54 @@
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family:sans-serif;
+}
+a{
+    color: black;
+}
+.dsd{
+    width: 50px;
+    height: 40px;
+    margin-top: 10px;
+}
+.img{
+    height: 700px;
+    width:600px;
+    position: absolute;
+    bottom: 9px;
+}
+.homepage{
+    display: flex;
+    height: 60px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 900px;
+    border: 0.5px solid black;
+    gap: 400px;
+    align-items: center;
+}
+input{
+    height: 20px;
+    width: 100px;
+    margin-left: 20px;
+}
+.text{
+    margin-left: 300px;
+    margin-top: 100px;
+    display: flex;
+    flex-direction: column;
+}
+.div{
+    display: flex;
+    padding: 20px;
+    margin-left: 0px;
+}
+.yu{
+    width: 300px;
+    height: 100px;
+}
+.dsfas{
+        width: 1032px;
+    height: 619px;
+    background-color: yellow;
+}
